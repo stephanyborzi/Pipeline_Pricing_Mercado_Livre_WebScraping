@@ -4,6 +4,8 @@ class MercadolivreSpider(scrapy.Spider):
     name = "mercadolivre"
     allowed_domains = ["mercadolivre.com.br"]
     start_urls = ["https://lista.mercadolivre.com.br/tenis-corrida-masculino"]
+    page_count = 1
+    max_page = 10
 
     def start_requests(self):
         headers = {
@@ -26,4 +28,11 @@ class MercadolivreSpider(scrapy.Spider):
                 'review_amount': product.css('span.poly-reviews__rating::text').get(),
                 'review_rating_number': product.css('span.poly-reviews__total::text').re_first(r'\d+')
             }
+        
+        if self.page_count < self.max_page:
+            next_page = response.css('li.andes-pagination__button--next a::attr(href)').get()
+            if next_page:
+                self.page_count += 1
+                yield scrapy.Request(next_page, callback=self.parse)
+
 
