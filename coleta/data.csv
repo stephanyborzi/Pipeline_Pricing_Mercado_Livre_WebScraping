@@ -1,58 +1,58 @@
-brand
-MIZUNO
-ASICS
-""
-FILA
-NEW BALANCE
-SALOMON
-SALOMON
-SALOMON
-SALOMON
-MIZUNO
-EVOLTENN
-MIZUNO
-SALOMON
-FILA
-FILA
-NIKE
-SALOMON
-SALOMON
-PLAZA
-ASCENSION
-MIZUNO
-SALOMON
-OLYMPIKUS
-OLYMPIKUS
-NIKE
-OLYMPIKUS
-OLYMPIKUS
-OLYMPIKUS
-OLYMPIKUS
-UNDER ARMOUR
-SALOMON
-SALOMON
-OLYMPIKUS
-OLYMPIKUS
-MN
-OLYMPIKUS
-ADIDAS
-NEW BALANCE
-OLYMPIKUS
-OLYMPIKUS
-OLYMPIKUS
-OLYMPIKUS
-MIZUNO
-OLYMPIKUS
-MG
-ADIDAS
-NEW BALANCE
-ÖUS
-UNDER ARMOUR
-MG
-ÖUS
-OLYMPIKUS
-MIZUNO
-MIZUNO
-MIZUNO
-UNDER ARMOUR
-MIZUNO
+brand,name,old_price,new_price,review_amount,review_rating_number
+ASICS,Tênis Masculino Asics Gel Revelation Original Couro Corrida,426,"127,80",5.0,2
+MIZUNO,Tenis Masculino Mizuno Nirvana 9 Academia Caminhada Treino,459,"137,70",,
+,Tenis Olimp Masculino Academia Mega Fast Corrida Confortavel,"115,31","78,90",4.3,923
+FILA,Tênis Masculino Fila Fulltime Treino Academia Confortável,333,"289,71",,
+NEW BALANCE,Tênis Masculino New Balance Garoé V2 Treking Trilha Original,,"699,90",,
+SALOMON,Tenis Salomon Ultra Flow Corrida Asfalto E Trilhas Masc Ptcz,,"969,91",,
+SALOMON,Tênis Salomon X-adventure Masculino Trilha,,"771,24",,
+SALOMON,Tênis Masculino Salomon Pulsar Trail Trilha,,"751,05",,
+SALOMON,Tênis Masculino Salomon X Ultra Pioneer Aero Trilha,,"714,10",,
+MIZUNO,Tenis Mizuno Creation Original Couro Preto Pronta Entrega,426,"127,80",,
+ASCENSION,Tenis Ortopedico Masculino Corrida Caminhada Treino Academia,"149,90","109,42",4.5,108
+MIZUNO,Tênis Masculino Mizuno Wave Creation 20 Lançamento Corrida,426,"127,80",,
+SALOMON,Tênis Masculino Salomon Sense Ride 5 Trilha,,714,,
+FILA,Tênis Fila Racer Sky Preto/grafite Masculino,,"341,99",,
+FILA,Tênis Fila Racer Sky Cinza/preto Masculino,,"341,99",,
+NIKE,Nike Court Vision Low Next Nature Masculino Adultos,,"599,99",4.6,243
+SALOMON,Tênis Masculino Salomon X-adventure Trilha,,"704,17",,
+SALOMON,Tênis Salomon Pulsar Trail Masculino Trilha,,"685,74",,
+EVOLTENN,Kit 3 Combo Tenis Masculino Corrida Treino Academia Leve,"189,95","170,95",4.6,369
+PLAZA,Kit 2 Pares Tênis Casual Esportivo Masculino Relogio Digital,,"149,90",4.3,300
+OLYMPIKUS,Tênis Olympikus Dynamic Masculino Original,,"269,90",5.0,20
+SALOMON,Tênis Salomon Sense Ride 5 Masculino Trilha,,652,,
+OLYMPIKUS,Tênis Olympikus Beats Preto Masculino,,"249,90",,
+OLYMPIKUS,Tênis Olympikus Challenger 5 Masculino Branco & Cinza,,"247,90",,
+NIKE,Tênis Nike Revolution 7 Masculino,"399,99","319,99",4.6,192
+OLYMPIKUS,Tênis Masculino Olympikus Bloco,,"269,99",,
+OLYMPIKUS,Tênis Olympikus Masculino Esportivo Casual Sem Cadarço,"299,88","254,89",,
+OLYMPIKUS,Tênis Olympikus Mescla Masculino Arenito Academia,,"239,90",,
+OLYMPIKUS,Tênis Olympikus Mescla Masculino Cinza Academia,,"239,90",,
+UNDER ARMOUR,Tênis Under Armour Charged Quicker Azul,,"429,90",,
+SALOMON,Tênis Salomon X-adventure Trilha Masculino,,"704,17",,
+SALOMON,Tênis Salomon X Ultra Pioneer Aero Masculino Trilha,,652,,
+OLYMPIKUS,Tênis Olympikus Taurus Preto,,"283,85",,
+OLYMPIKUS,Tênis Olympikus Asfalto Bege Masculino,,"229,90",,
+MN,Tenis Vm Refletivo Masculino Promoção,,380,,
+OLYMPIKUS,Tenis Olympikus Conex,,"209,99",,
+ADIDAS,Tênis adidas Adizero Takumi Sen 10 Prata,,1.499,,
+NEW BALANCE,Tênis Masculino New Balance Original Couro Academia Macio,399,"119,70",,
+OLYMPIKUS,Tênis Olympikus Mescla Masculino Arenito Treino,,"219,90",,
+OLYMPIKUS,Tênis Olympikus Mescla Masculino Cinza Treino,,"219,90",,
+OLYMPIKUS,Tênis Olympikus Beats Preto Masculino,,"249,90",,
+OLYMPIKUS,Tênis Olympikus Challenger 5 Masculino Branco & Cinza,,"247,90",,
+MIZUNO,Tenis Mizuno Wave Futur,,2.000,,
+OLYMPIKUS,Tênis Olympikus Asfalto Bege Masculino,,"229,90",,
+MG,Tênis Sc Masculino Pronta Entrega,,1.000,,
+ADIDAS,Tênis adidas Courtjam Control 3 Branco E Vermelho,,"699,90",,
+NEW BALANCE,Tênis New Balance Couro Dia A Dia Macio Garantia Envio Ja,399,"119,70",,
+ÖUS,Tênis Ous Fluente Bco Silver Essencial,399,"379,05",,
+UNDER ARMOUR,Tênis De Corrida Under Armour Charged Quicker Unissex,,"301,13",,
+MG,Tenis Masculino Com Solado Bolha,,450,,
+ÖUS,Tênis Ous Fluente Pto Branco Preto Essencial,"399,90","379,90",,
+OLYMPIKUS,Tênis Olympikus Challenger 5 Masculino,,"299,99",,
+MIZUNO,Tênis Masculino Mizuno Wave Xt90 Original Couro Envio Ja,459,"137,70",,
+MIZUNO,Tênis Mizuno Wave Prophecy 13 Lançamento Oferta,,2.000,,
+MIZUNO,Tênis Corrida Masculino Mizuno Atlantis,,"369,99",,
+MIZUNO,Tênis Mizuno Masculino Wave Creation Envio Imediato,"399,99","159,99",,
+UNDER ARMOUR,Tênis Under Armour Charged Quicker Unissex Corrida,,"301,13",,
