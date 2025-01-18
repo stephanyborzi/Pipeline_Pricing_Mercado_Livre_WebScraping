@@ -53,6 +53,34 @@ README.md                # Documentação do projeto
 
 ---
 
+## 🖥️ Dashboard de Análise
+
+A **Dashboard** foi construída utilizando **Streamlit** e fornece uma visualização interativa dos seguintes dados:
+
+### KPIs principais:
+- **Número Total de Itens**
+- **Número de Marcas Únicas**
+- **Preço Médio Novo (R$)**
+
+### Marcas mais encontradas até a 10ª página:
+Exibindo as marcas com maior número de produtos, com gráficos interativos.
+
+### Preço Médio por Marca:
+Exibindo o preço médio de tênis novos por marca.
+
+### Satisfação por Marca:
+Média de avaliações dos produtos por marca, com gráficos de barras.
+
+## Como Executar a Dashboard
+
+### 1. Crie um ambiente virtual:
+```bash
+python -m venv venv
+source venv/bin/activate  # No Windows: venv\Scripts\activate
+
+![image](https://github.com/user-attachments/assets/65f85557-8114-4ccd-bf35-a8bb96c9217e)
+
+
 ## 🚜 Pipeline CI/CD
 
 O projeto utiliza um **workflow do GitHub Actions** para realizar o build e deploy automáticos.
