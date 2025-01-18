@@ -71,6 +71,8 @@ Exibindo o preço médio de tênis novos por marca.
 ### Satisfação por Marca:
 Média de avaliações dos produtos por marca, com gráficos de barras.
 
+![image](https://github.com/user-attachments/assets/65f85557-8114-4ccd-bf35-a8bb96c9217e)
+
 ## Como Executar a Dashboard
 
 ### 1. Crie um ambiente virtual:
@@ -78,7 +80,6 @@ Média de avaliações dos produtos por marca, com gráficos de barras.
 python -m venv venv
 source venv/bin/activate  # No Windows: venv\Scripts\activate
 
-![image](https://github.com/user-attachments/assets/65f85557-8114-4ccd-bf35-a8bb96c9217e)
 
 
 ## 🚜 Pipeline CI/CD
