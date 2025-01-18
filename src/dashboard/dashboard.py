@@ -18,7 +18,7 @@ if testar_conexao():
     df = pd.read_sql_query('SELECT * FROM mercadolivre_items', conn)
     conn.close()
 
-    st.title('Oi Pesquisa de Mercado - Tênis Esportivo Mercado Livre')
+    st.title('Pesquisa de Mercado - Tênis Esportivo Mercado Livre')
     st.subheader('KPIs principais do sistema')
     
     col1, col2, col3 = st.columns(3)
