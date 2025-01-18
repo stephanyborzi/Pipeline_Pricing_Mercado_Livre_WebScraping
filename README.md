@@ -125,11 +125,6 @@ Fique à vontade para abrir issues ou pull requests caso deseje contribuir com m
 
 ---
 
-## ✨ Autor
-**[Seu Nome]**  
-- LinkedIn: [SeuPerfil](https://linkedin.com/in/seuperfil)
-- GitHub: [SeuUsuario](https://github.com/seuusuario)
-
 
 python -m venv venv
 source venv/bin/activate  # No Windows: venv\Scripts\activate
