@@ -73,31 +73,6 @@ Média de avaliações dos produtos por marca, com gráficos de barras.
 
 ![image](https://github.com/user-attachments/assets/65f85557-8114-4ccd-bf35-a8bb96c9217e)
 
-## Como Executar a Dashboard
-
-### 1. Crie um ambiente virtual:
-```bash
-python -m venv venv
-source venv/bin/activate  # No Windows: venv\Scripts\activate
-
-
-
-## 🚜 Pipeline CI/CD
-
-O projeto utiliza um **workflow do GitHub Actions** para realizar o build e deploy automáticos.
-
-### Principais Etapas
-1. **Build**:
-   - Configura o ambiente Python.
-   - Instala as dependências especificadas em `requirements.txt`.
-   - Compacta os arquivos do projeto para criação de um artefato de deploy.
-
-2. **Deploy**:
-   - Faz login no Azure utilizando as credenciais armazenadas como segredos no repositório.
-   - Publica a aplicação no Azure Web App.
-
----
-
 ## 🔍 Resultados Esperados
 Com a implantação do projeto, os seguintes resultados são esperados:
 
