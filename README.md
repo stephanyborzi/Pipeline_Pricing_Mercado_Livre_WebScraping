@@ -1,4 +1,4 @@
-# Projeto: Estudo de Pricing - Venda de Tênis Masculinos no Mercado Livre
+#  Projeto: Estudo de Pricing - Venda de Tênis Masculinos no Mercado Livre
 
 ## 📄 Descrição
 Este projeto realiza um **estudo de pricing** com foco em tênis masculinos anunciados no Mercado Livre. O objetivo é coletar, processar e armazenar informações sobre os produtos, como preços antigos, preços atuais e número de avaliações, para possibilitar uma análise detalhada e visualização desses dados em uma aplicação hospedada no **Azure Web App**.
